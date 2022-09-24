@@ -5,19 +5,20 @@
 # 公众号appSecret
 "app_secret": "2e1ee849c413957a7060ea0532a7bb5e",
 # 模板消息id
-"template_id": "pS0_6k5Jh5od17uswTJE-0fLUwvvxRf2rztWemCQckc",
+"template_id": "vjUllIbqeQhlJ4Z5qMXdWLQbMzDaXSsN-C8suS-XeEw",
 # 接收公众号消息的微信号
-"user": ["o2cFB52amNFDsXTm0cy_pSvGlX9E","o2cFB5849-eDAIAPepkn0rsWodg0","o2cFB52mXfC6P_Tq3kSLbEbt4aqM"],
+"user": ["o2cFB52amNFDsXTm0cy_pSvGlX9E","o2cFB5849-eDAIAPepkn0rsWodg0"],
  
 # 信息配置
 # 和风天气apikey
 "weather_key": "0e13c93a25c74622a3449ce19b21b6ac",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "贵阳市",
+"region": "息烽县",
+"region2": "钟山区"
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "朱云云", "birthday": "r1999-06-02"},
 # 生日2
-"birthday2": {"name": "李老公", "birthday": "r2001-02-05"},
+"birthday2": {"name": "李正正", "birthday": "r2001-02-05"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2020-07-22",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
